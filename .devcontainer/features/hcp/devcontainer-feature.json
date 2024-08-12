@@ -1,0 +1,7 @@
+{
+    "name": "HCP",
+    "id": "hcp",
+    "version": "1.0.0",
+    "description": "A HCP feature",
+    "options": {}
+}

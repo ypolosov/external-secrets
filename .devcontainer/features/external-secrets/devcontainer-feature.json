@@ -1,0 +1,7 @@
+{
+    "name": "External secrets",
+    "id": "external-secrets",
+    "version": "1.0.0",
+    "description": "A External secrets feature",
+    "options": {}
+}
